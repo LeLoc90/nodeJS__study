@@ -27,3 +27,7 @@ app.get("/news", (req, res) => {
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
 });
+
+console.log(abc);
+console.log(abc);
+console.log(abc);
